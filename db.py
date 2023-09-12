@@ -13,5 +13,10 @@ professores = [
         'id': 3,
         'nome': 'Marcos Selmini',
         'email': 'selmini.espm.br'
+    },
+     {
+        'id': 4,
+        'nome': 'Marcos Selmini',
+        'email': 'selmini.espm.br'
     }
 ]
